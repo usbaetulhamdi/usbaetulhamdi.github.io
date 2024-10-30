@@ -1,0 +1,9 @@
+http://localhost/absensi/
+
+login karyawan :
+u : karyawan@gmail.com
+p : 123
+
+login admin
+u : admin
+p : admin123
